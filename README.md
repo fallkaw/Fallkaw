@@ -1,8 +1,8 @@
 
 
-### Ola! Eu sou o Kawan Ribeiro ✌️
+### Heeey Guys ✌️
 
-Eu trabalho como desenvolvedor Front-End.Acredito na evolução da tecnologia e estou sempre atualizado nos assuntos tecnológicos. Sempre em busca de conhecimento e networking.
+I work as a Front-End developer. I believe in the evolution of technology and I am always up to date on technological matters. Always looking for knowledge and networking.
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fallkaw/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawan-ribeiro-9a1340144/)
@@ -13,7 +13,7 @@ Eu trabalho como desenvolvedor Front-End.Acredito na evolução da tecnologia e 
 
 ![Fallkaw GitHub stats](https://github-readme-stats.vercel.app/api?username=fallkaw&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
