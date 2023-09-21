@@ -18,7 +18,7 @@ I work as a Front-End developer. I believe in the evolution of technology and I 
 
 ![Fallkaw GitHub stats](https://github-readme-stats.vercel.app/api?username=fallkaw&show_icons=true&theme=radical)
 
-## Technologies I use in my day
+## Technology Stack 
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
