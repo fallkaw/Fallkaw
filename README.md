@@ -2,7 +2,8 @@
 
 ### Heeey Guys ✌️
 
-![Hi, I'm Fallkaw front-end developer](https://github.com/fallkaw/Fallkaw/assets/144706831/b58cbfe2-86e3-460c-b82d-2294a568cd2e)
+![Hi, I'm Fallkaw front-end developer](https://github.com/fallkaw/Fallkaw/assets/144706831/a4fb3d3f-b041-4951-ada8-b215cb4ee24d)
+
 
 
 I work as a Front-End developer. I believe in the evolution of technology and I am always up to date on technological matters. Always looking for knowledge and networking.
