@@ -1,8 +1,17 @@
-
-
 ### Heeey Guys ✌️
 
 ![Hi, I'm Fallkaw front-end developer](https://github.com/fallkaw/Fallkaw/assets/144706831/a4fb3d3f-b041-4951-ada8-b215cb4ee24d)
+
+<div align="center">
+  
+  <!-- dynamic typing effect-->
+  <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
 
 
 
